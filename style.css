@@ -1,0 +1,111 @@
+ *{
+  margin: 0;
+  padding: 0;
+  
+}
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: white;
+}
+
+.container-1 {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.title__name {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.title__des {
+  font-size: 15px;
+  color: #605959;
+}
+
+.container-2 {
+  justify-content: center;
+  padding: 20px;
+  background-color: white;
+  display:flex;
+}
+
+.receipes {
+  width: 200px;
+  border: 1px solid ;
+  background-color: white;
+  padding: 10px;
+  text-align: center;
+  
+}
+
+.receipes__img {
+  width: 150px;
+  height: 150px;
+  margin-bottom: 10px;
+}
+
+.receipes__title {
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.receipes__des {
+  font-size: 15px;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.receipes__button {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  font-size: 15px;
+}
+
+.receipes__button:hover {
+  background-color: #bcb1b1;
+}
+
+.container-3 {
+  background-color: black;
+  color: white;
+  padding: 20px 20px;
+  text-align: center;
+}
+.Contact-table {
+  margin: auto;
+}
+
+.Contact-table td {
+  padding: 10px;
+  font-size: 16px;
+  color: white;
+}
+
+.Contact-form__input {
+  padding: 8px;
+  width: 200px;
+  border: none;
+}
+
+.container-3__button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #f2e635;
+  color: black;
+  border: none;
+  font-weight: bold;
+  font-size: 15px;
+  width: 300px;
+}
+
+.container-3__button:hover {
+  background-color: #838157;
+}Add comment
